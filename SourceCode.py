@@ -1,3 +1,4 @@
+#coded by http://dragoon.ooo
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
